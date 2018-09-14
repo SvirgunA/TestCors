@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestCors/v15
+/TestCors.API/bin/Debug/netcoreapp2.0
+/TestCors.API/obj
+/TestCors.Common/bin/Debug/netcoreapp2.0
+/TestCors.Common/obj
+/TestCors.Data/bin/Debug/netcoreapp2.0
+/TestCors.Data/obj
+/TestCors.DTO/bin/Debug/netcoreapp2.0
+/TestCors.DTO/obj
+/TestCors.Models/bin/Debug/netcoreapp2.0
+/TestCors.Models/obj
+/TestCors.Services/bin/Debug/netcoreapp2.0
+/TestCors.Services/obj
